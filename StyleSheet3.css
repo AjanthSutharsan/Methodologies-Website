@@ -1,0 +1,92 @@
+body {
+	background-color: #F0E68C;
+}
+.heading {
+	text-decoration: underline;
+	color: 	#CD5C5C;
+	text-align: center;
+	font-family: Georgia, serif;
+}
+.NavigationBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6A5ACD;
+}
+.navlink {
+    float: left;
+}
+.navlink a {
+    display: block;
+    color: #20B2AA;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-family: Georgia, serif;
+	font-size: 24px;
+}
+.navlink a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #CD5C5C;
+}
+table, td, th {
+   border: 1px solid black;
+}
+td, th, caption {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 16px;
+	color: #6A5ACD;
+	text-align: center;
+}
+#RADtable	{
+	margin-left: 17.5%;
+}
+#Spiraltable {
+	margin-left: 11.5%;
+}
+#GoodLuck {
+	width: 376px;
+	height: 337px;
+	margin-left: 40.5%;
+}
+#WaterfallModelImage {
+	width:	359px;
+	height:	260px;
+	margin-left: 40.75%;
+}
+#RADPic	{
+	width:	546px;
+	height:	321px;
+	margin-left: 36.75%;
+}
+#SpiralModel {
+	width: 444px;
+	height: 391px;
+	margin-left: 37%;
+}
+#XPDiagram {
+	width: 432px;
+	height: 346px;
+	margin-left: 38%;
+}
+.text	{
+	font-family: Georgia, serif;
+	font-size: 20px;
+	color: #20B2AA;
+}
+.majorlist	{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 18px;
+	color: #9370DB;
+}
+.minorlist, .extrainfo	{
+	font-family: Georgia, serif;
+	font-size: 16px;
+	color: #20B2AA;
+}
+#hometext {
+	text-align: center;
+}
